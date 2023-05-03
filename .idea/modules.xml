@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/M9-Challenge-Lastname-Firstname.iml" filepath="$PROJECT_DIR$/.idea/M9-Challenge-Lastname-Firstname.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge 2/starter/oauth-greeter/oauth-greeter.iml" filepath="$PROJECT_DIR$/challenge 2/starter/oauth-greeter/oauth-greeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge 2/starter/record-store-api/record-store-api.iml" filepath="$PROJECT_DIR$/challenge 2/starter/record-store-api/record-store-api.iml" />
+    </modules>
+  </component>
+</project>
